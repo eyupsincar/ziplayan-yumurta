@@ -8,4 +8,4 @@ expo start
 
 ![Alt text](./assets/ReadmeImages/Screenshot_1642613290.png)
 ![Alt text](./assets/ReadmeImages/Screenshot_1642613294.png)
-![Alt text](./assets/ReadmeImages/Screenshot_1642613347.png)
+![Alt text](./assets/ReadmeImages/Screenshot_1642614449.png)

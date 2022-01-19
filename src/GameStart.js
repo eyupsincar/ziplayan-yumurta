@@ -107,12 +107,12 @@ export default function GameStart() {
     return (
         <TouchableWithoutFeedback onPress={jump}>
             <View style={styles.container}>
-                {isGameOver && <View style={{marginTop: 150}}>
+                {isGameOver && <View style={{marginTop: 200}}>
                     <View>
                         <Text style={{fontSize: 15}}>Skor: {score}</Text>
                     </View>
                     <View>
-                        <Button title={"Restart"} onPress={() => navigation.navigate('Home')}/>
+                        <Button title={"Yeniden Oyna"} onPress={() => navigation.navigate('Home')}/>
                     </View>
                 </View>}
                 <Yumurta
